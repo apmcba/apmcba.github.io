@@ -1,43 +1,72 @@
 body {
 	background-color:E5E4E2;
+	margin-left: auto;
+    margin-right: auto;
+    width: 75em;
+}
+
+header {
+	padding: 20px;
+  border-style: dashed solid;
+  text-align: center;
+  color: FF7F50;
+  font-family: "Papyrus":;
+}
+.header img {
+  float: left;
+  width: 250px;
+  height: 250px;
+  background: #555;
 }
 
 h1 {
-	color: E66C2C;
-	font-family: "Times New Roman", Times, serif;
-	text-align:center;
-
+	font-family: "Papyrus";
+	font-size : 60px;
+	text-align : center;
 }
+
+#slogan { color: 357EC7;
+	font-family: "Papyrus";
+	font-size : 20px;
+	text-align : center;
+}
+
 h2 {
-	color: E66C2C;
-	font-family: "Times New Roman", Times, serif;
+	color: FF7F50;
+	font-family: "Papyrus";
 }
 h3 {
 	color: 357EC7;
-	font-family: "Times New Roman", Times, serif;
+	font-family: "Papyrus";
 }
 h4 {
 	color: Black;
-	font-family: "Times New Roman", Times, serif;
+	font-family: "Papyrus";
 }
-div { 
-	font-size: 20px; 
-	text-align:center;
-}
+
 p {
 	color: Black;
 	margin-left: 12px;
-	font-family: "Times New Roman", Times, serif;
+	font-family: "Papyrus";
 }
-a:link, {
-  color: Black;
+
+.external a:link {
+	color: FF7F50;
+	text-align: center;
+}	
+.external a:hover {
+	color: 357EC7 ;
 }
-a:visited {
-  color: Black;
+.external a:visited { 
+	color: 357EC7;
 }
-a:hover {
-  color: 357EC7;
+.internal a:link { 
+	color: 357EC7;
+	text-align: center;
 }
-span { 
-	color:E66C2C;
-	border-style:dotted;
+.internal a:hover {
+	color: FF7F50; 
+}
+.internal a:visited {
+	color: FF7F50;
+}
