@@ -51,22 +51,22 @@ p {
 }
 
 .external a:link {
-	color: FF7F50;
+	color: #FF7F50;
 	text-align: center;
 }	
 .external a:hover {
-	color: 357EC7 ;
+	color: #357EC7 ;
 }
 .external a:visited { 
-	color: 357EC7;
+	color: #357EC7;
 }
 .internal a:link { 
-	color: 357EC7;
+	color: #357EC7;
 	text-align: center;
 }
 .internal a:hover {
-	color: FF7F50; 
+	color: #FF7F50; 
 }
 .internal a:visited {
-	color: FF7F50;
+	color: #FF7F50;
 }
