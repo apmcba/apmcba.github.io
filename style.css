@@ -13,10 +13,10 @@ header {
   font-family: "Helvetica":;
 }
 .headerimg {
-  float: left;
-  margin: 15px;
+	float: right;
+	margin-left: auto;
+  margin-right: auto;
 }
-
 h1 {
 	color: FF7F50;
 	font-family: "Helvetica";
