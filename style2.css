@@ -1,0 +1,48 @@
+body {
+	background-color:#E5E4E2;
+	text-align: center;
+	margin-left: auto;
+    margin-right: auto;
+    width: 75em;
+}
+header{ 
+	padding: 25px;
+  border-style: dashed solid;
+  color: #FF7F50;
+
+}
+.gallery {
+  margin: 10px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 220px;
+}
+
+.gallery:hover {
+  border: 5px solid #357EC7;
+}
+
+.gallery img {
+  width: 100%;
+  height: auto;
+}
+h1 {
+	color: #FF7F50;
+	font-family: "Helvetica";
+	font-size : 60px;
+	text-align : center;
+}
+h2 {
+	color: #357EC7;
+	font-family: "Helvetica";
+	text-align: center;
+}
+.desc {
+	color: Black;
+	font-size: 16px;
+	margin-left: 10px;
+	font-family: "Helvetica";
+}
+.desc:hover {
+	font-weight:bold;
+}
