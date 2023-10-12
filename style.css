@@ -6,67 +6,67 @@ body {
 }
 
 header {
-	padding: 20px;
+	padding: 25px;
   border-style: dashed solid;
-  text-align: center;
+  text-align: left;
   color: FF7F50;
-  font-family: "Papyrus":;
+  font-family: "Helvetica":;
 }
 .header img {
   float: left;
-  width: 250px;
-  height: 250px;
-  background: #555;
+  margin: 15px;
 }
 
 h1 {
-	font-family: "Papyrus";
+	color: FF7F50;
+	font-family: "Helvetica";
 	font-size : 60px;
-	text-align : center;
+	text-align : left;
 }
 
 #slogan { color: 357EC7;
-	font-family: "Papyrus";
+	font-family: "Helvetica";
 	font-size : 20px;
-	text-align : center;
+	text-align : left;
 }
 
 h2 {
 	color: FF7F50;
-	font-family: "Papyrus";
+	font-family: "Helvetica";
 }
 h3 {
 	color: 357EC7;
-	font-family: "Papyrus";
+	font-family: "Helvetica";
 }
 h4 {
 	color: Black;
-	font-family: "Papyrus";
+	font-family: "Helvetica";
 }
 
 p {
 	color: Black;
 	margin-left: 12px;
-	font-family: "Papyrus";
+	font-family: "Helvetica";
 }
 
 .external a:link {
-	color: #FF7F50;
+	color: FF7F50;
 	text-align: center;
 }	
 .external a:hover {
-	color: #357EC7 ;
+	color: 357EC7 ;
 }
 .external a:visited { 
-	color: #357EC7;
+	color: 357EC7;
 }
 .internal a:link { 
-	color: #357EC7;
+	color: 357EC7;
 	text-align: center;
 }
 .internal a:hover {
-	color: #FF7F50; 
+	color: FF7F50; 
 }
 .internal a:visited {
-	color: #FF7F50;
+	color: FF7F50;
 }
+
