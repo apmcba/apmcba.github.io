@@ -56,5 +56,6 @@ h3 {
 #more { 
 	border-style: dotted;
   border-width: 2px;
-	text-align: justify;
+	text-align: center;
+	margin: 25px;
 }
