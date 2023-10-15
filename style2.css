@@ -35,6 +35,13 @@ h2 {
 	color: #357EC7;
 	font-family: "Helvetica";
 	text-align: center;
+	font-size: 35px;
+}
+h3 { 
+	color: #357EC7;
+	font-family: "Helvetica";
+	text-align: center;
+	font-size: 24px;
 }
 .desc {
 	color: Black;
@@ -45,3 +52,8 @@ h2 {
 .desc:hover {
 	font-weight:bold;
 }
+.map {
+	border-style: dotted;
+  border-width: thick;
+}
+	
