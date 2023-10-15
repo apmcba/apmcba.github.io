@@ -52,4 +52,8 @@ h3 {
 .desc:hover {
 	font-weight:bold;
 }
-	
+
+#more { 
+	border-style: dotted;
+  border-width: 2px;
+}
