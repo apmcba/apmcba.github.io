@@ -1,5 +1,5 @@
 body {
-	background-color:E5E4E2;
+	background-color:#E5E4E2;
 	margin-left: auto;
     margin-right: auto;
     width: 75em;
@@ -14,17 +14,17 @@ header {
 }
 
 h1 {
-	color: FF7F50;
+	color: #FF7F50;
 	font-family: "Helvetica";
 	font-size : 60px;
 	text-align : left;
 }
 h2 {
-	color: FF7F50;
+	color: #FF7F50;
 	font-family: "Helvetica";
 }
 h3 {
-	color: 357EC7;
+	color: #357EC7;
 	font-family: "Helvetica";
 }
 h4 {
@@ -61,7 +61,7 @@ p {
 
 .gallery {
   margin: 5px;
-  border: 1px solid #ccc;
+  border: 1px solid ;
   float: left;
   width: 220px;
 }
@@ -89,6 +89,6 @@ p {
 	font-size: 20px;
 	text-align: left;
 }
-#pothead img {
+#pothead {
 	float: right;
 }
