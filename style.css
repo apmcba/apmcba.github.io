@@ -12,46 +12,13 @@ header {
   color: FF7F50;
   font-family: "Helvetica":;
 }
-img {
-	float: right;
-}
+
 h1 {
 	color: FF7F50;
 	font-family: "Helvetica";
 	font-size : 60px;
 	text-align : left;
 }
-.gallery {
-  margin: 5px;
-  border: 1px solid #ccc;
-  float: left;
-  width: 220px;
-}
-
-.gallery:hover {
-  border: 5px solid #357EC7;
-}
-
-.gallery img {
-  width: 100%;
-}
-.desc {
-	color: Black;
-	font-size: 16px;
-	margin-left: 10px;
-	margin-bottom: 30px;
-	font-family: "Helvetica";
-}
-.desc:hover {
-	font-weight:bold;
-}
-
-#slogan { color: 357EC7;
-	font-family: "Helvetica";
-	font-size : 20px;
-	text-align : left;
-}
-
 h2 {
 	color: FF7F50;
 	font-family: "Helvetica";
@@ -92,3 +59,36 @@ p {
 	color: FF7F50;
 }
 
+.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 220px;
+}
+
+.gallery:hover {
+  border: 5px solid #357EC7;
+}
+
+.gallery img {
+  width: 100%;
+}
+.desc {
+	color: Black;
+	font-size: 16px;
+	margin-left: 10px;
+	margin-bottom: 30px;
+	font-family: "Helvetica";
+}
+.desc:hover {
+	font-weight:bold;
+}
+
+#slogan { color: 357EC7;
+	font-family: "Helvetica";
+	font-size: 20px;
+	text-align: left;
+}
+#pothead img {
+	float: right;
+}
