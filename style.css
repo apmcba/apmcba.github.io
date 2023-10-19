@@ -10,7 +10,7 @@ header {
   	border-style: dashed solid;
   	text-align: left;
   	color: #FF7F50;
-  	font-family: "Helvetica":;
+  	font-family: "Helvetica";
 }
 
 h1 {
@@ -85,7 +85,7 @@ p {
 }
 
 /* various ids */
-#slogan { color: 357EC7;
+#slogan { color: #357EC7;
 	font-family: "Helvetica";
 	font-size: 20px;
 	text-align: left;
