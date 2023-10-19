@@ -9,7 +9,7 @@ header {
 	padding: 25px;
   	border-style: dashed solid;
   	text-align: left;
-  	color: FF7F50;
+  	color: #FF7F50;
   	font-family: "Helvetica":;
 }
 
@@ -35,36 +35,30 @@ p {
 
 /* This section formats the internal and external links. Format taken from https://www.w3schools.com/css/css_link.asp*/
 .external a:link {
-	color: FF7F50;
+	color: #FF7F50;
 	text-align: center;
 	font-family: "Helvetica";
-	font-size: 20pt;
 }	
 .external a:hover {
-	color: 357EC7 ;
+	color: #357EC7 ;
 	font-family: "Helvetica";
-	font-size: 20pt;
 }
 .external a:visited { 
-	color: 357EC7;
+	color: #357EC7;
 	font-family: "Helvetica";
-	font-size: 20pt;
 }
 .internal a:link { 
-	color: 357EC7;
+	color: #357EC7;
 	text-align: center;
 	font-family: "Helvetica";
-	font-size: 20pt;
 }
 .internal a:hover {
-	color: FF7F50; 
+	color: #FF7F50; 
 	font-family: "Helvetica";
-	font-size: 20pt;
 }
 .internal a:visited {
-	color: FF7F50;
+	color: #FF7F50;
 	font-family: "Helvetica";
-	font-size: 20pt;
 }
 
 /* This section formats the gallery and descriptions. Format from w3 schools https://www.w3schools.com/css/css_image_gallery.asp */
